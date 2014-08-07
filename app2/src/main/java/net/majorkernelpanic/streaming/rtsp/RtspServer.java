@@ -392,7 +392,7 @@ public class RtspServer extends Service {
 					catch (Exception e) {
 						// This alerts the main thread that something has gone wrong in this thread
 						postError(e, ERROR_START_FAILED);
-						Log.e(TAG,e.getMessage()!=null?e.getMessage():"An error occurred");
+						Log.e(TAG,"wtf"+e.getMessage()!=null?e.getMessage():"An error occurred");
 						e.printStackTrace();
 						response = new Response(request);
 					}
