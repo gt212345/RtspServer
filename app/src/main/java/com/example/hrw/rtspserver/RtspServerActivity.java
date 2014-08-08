@@ -14,7 +14,7 @@ import android.preference.PreferenceManager;
 /*
  * Copyright (C) 2011-2014 GUIGUI Simon, fyhertz@gmail.com
  *
- * This file is part of libstreaming (https://github.com/fyhertz/libstreaming)
+ * This file contain libstreaming (https://github.com/fyhertz/libstreaming)
  *
  * this is a free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
